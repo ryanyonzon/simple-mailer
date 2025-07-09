@@ -1,9 +1,9 @@
 <?php
 /**
  * A simple PHP mailer class
- * https://github.com/rawswift/simple-mailer
+ * https://github.com/ryanyonzon/simple-mailer
  *
- * Copyright (c) 2012 Ryan Yonzon, <rawswift@gmail.com>
+ * Copyright (c) 2012 Ryan Yonzon <ryanyonzon@gmail.com>
  * Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
  *
  * @todo:
